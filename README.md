@@ -1,3 +1,4 @@
+[English](README.md) | [한국어](README.ko.md)
 # 🎬 Frame Rate Reducer for OBS
 
 A simple OBS Studio filter plugin that creates a low-frame-rate effect by reducing the output frame frequency.
