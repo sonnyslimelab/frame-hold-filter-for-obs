@@ -13,7 +13,11 @@ A simple OBS Studio filter plugin that allows you to freeze a video frame at any
 
 ## 📸 Preview
 
-![Frame Hold Filter Preview](images/preview.gif)
+![Frame Hold Filter Preview](freamhold_capture01.png)
+
+* Source:
+![Frame Hold Filter Preview](freamhold_capture02.png)
+![Frame Hold Filter Preview](freamhold_capture03.png)
 
 ## 🚀 Installation
 
