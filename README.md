@@ -43,7 +43,7 @@ Built with:
 
 If you find this plugin useful, consider supporting the project:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yourname)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sonnyslimelab)
 
 ## 📄 License
 
