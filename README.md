@@ -1,37 +1,38 @@
-# 🎬 Frame Hold Filter for OBS
+# 🎬 Frame Rate Reducer for OBS
 
-A simple OBS Studio filter plugin that allows you to freeze a video frame at any moment.
+A simple OBS Studio filter plugin that creates a low-frame-rate effect by reducing the output frame frequency.
 
-
+![Frame Rate Reducer Preview](framehold_capture01.png)
 
 ## ✨ Features
 
-- 🧊 Freeze the current video frame instantly
+- 🎞️ Create a low FPS / stutter-style visual effect
+- 🔧 Adjustable frame interval for custom frame rates
 - 🎥 Works as an OBS Studio filter
-- ⚡ Lightweight and easy to use
-- 🖥️ Supports real-time streaming workflows
+- ⚡ Lightweight and optimized for real-time streaming
 
 ## 📸 Preview
 
-![Frame Hold Filter Preview](framehold_capture01.png)
+### Filter Settings
+![Frame Rate Reducer Settings](framehold_capture02.jpg)
 
-* Source:
-![Frame Hold Filter Preview](framehold_capture02.jpg)
-![Frame Hold Filter Preview](framehold_capture03.jpg)
+### Low Frame Rate Effect
+![Frame Rate Reducer Effect](framehold_capture03.jpg)
 
 ## 🚀 Installation
 
 1. Download the latest release
-2. Extract the files into your OBS installation folder
+2. Extract the files into your OBS Studio installation folder
 3. Restart OBS Studio
-4. Add "Frame Hold Filter" to your source filters
+4. Add "Frame Rate Reducer" to your source filters
 
 ## 💡 Use Cases
 
+- Retro game / old camera effects
+- Low FPS video style
 - Stream transitions
-- Freeze-frame effects
-- Camera pauses
-- Creative video effects
+- Creative visual effects
+- Stylized camera effects
 
 ## 🛠️ Development
 
@@ -42,7 +43,7 @@ Built with:
 
 ## ☕ Support
 
-If this plugin helped your workflow, consider supporting the project:
+If you find this plugin useful, consider supporting the project:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yourname)
 
